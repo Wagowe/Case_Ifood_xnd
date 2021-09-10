@@ -1,2 +1,3 @@
-# Case_Ifood_xnd
-Aula de deploy da DH - web app destinado à predição de chance de conversão de um cliente para uma determinada campanha de marketing.
+# Escola Digital House - Aula Deploy - Case Ifood
+O objetivo principal deste app é realizar predições sobre a chance de um cliente converter em uma dada campanha de mkt.
+O modelo treinado foi o LGBM.
